@@ -186,7 +186,7 @@ binarize  = False
 threshold = 110
 </pre>
 
-The training process has just been stopped at epoch 100 as shown below.<br><br>
+The training process has just been stopped at epoch 63 by Early-stopping callback as shown below.<br><br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Sessile-Polyp/asset/train_console_output_at_epoch_63.png" width="720" height="auto"><br>
 <br>
 <br>
