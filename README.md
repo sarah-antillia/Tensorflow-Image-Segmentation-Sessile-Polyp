@@ -1,4 +1,4 @@
-<h2>Tensorflow-Tiled-Image-Segmentation-Sessile-Polyp (2024/05/07)</h2>
+<h2>Tensorflow-Image-Segmentation-Sessile-Polyp (2024/05/07)</h2>
 
 This is the first experimental Image Segmentation project for Sessile-Polyp (Oral Cavity Derived Cancer) based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
