@@ -9,9 +9,9 @@ the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API
 Actual Image Segmentation Sample for an image.<br>
 <table>
 <tr>
-<th>Input: image</th>
-<th>Mask (ground_truth)</th>
-<th>Prediction: inferred_mask_merged</th>
+<th width="330">Input: image</th>
+<th width="330">Mask (ground_truth)</th>
+<th width="330">Prediction: inferred_mask_merged</th>
 </tr>
 <tr>
 <td><img src="./projects/TensorflowSlightlyFlexibleUNet/Sessile-Polyp/mini_test/images/distorted_0.01_rsigma0.5_sigma40_1058.jpg" width="320" height="auto"></td>
@@ -248,9 +248,9 @@ Inferred test masks_merged<br>
 
 <table>
 <tr>
-<th>Image</th>
-<th>Mask (ground_truth)</th>
-<th>Inferred-mask-merged</th>
+<th width="330">Image</th>
+<th width="330">Mask (ground_truth)</th>
+<th width="330">Inferred-mask-merged</th>
 </tr>
 
 <tr>
